@@ -1,0 +1,1677 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\persian-code.web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\persian-code.web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\app.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\css\\fonts\\bootstrap-iconsf114.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\fonts\\bootstrap-iconsf114.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\css\\fonts\\bootstrap-iconsf114.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\fonts\\bootstrap-iconsf114.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\css\\images\\cover-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\images\\cover-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\css\\images\\cover-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\images\\cover-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\css\\images\\cover-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\images\\cover-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\css\\images\\cover-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\images\\cover-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\css\\images\\cover-6.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\images\\cover-6.html"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\css\\images\\cover.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\images\\cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\css\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\css\\images\\pattern.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\images\\pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\css\\vendor.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\vendor.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\img\\Competition\\1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\Competition\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\img\\Competition\\1.webp",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\Competition\\1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\img\\cover\\cover-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\cover\\cover-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\img\\cover\\cover-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\cover\\cover-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\img\\cover\\cover-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\cover\\cover-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\img\\cover\\cover-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\cover\\cover-thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\img\\cover\\cover-thumb-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\cover\\cover-thumb-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\img\\trophy\\bronze.webp",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\trophy\\bronze.webp"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\img\\trophy\\gold.webp",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\trophy\\gold.webp"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\img\\trophy\\silver.webp",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\trophy\\silver.webp"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\img\\user\\738db451775d437198d6ed8da02136c0-programmer.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\user\\738db451775d437198d6ed8da02136c0-programmer.png"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\img\\user\\hacker.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\user\\hacker.png"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\img\\user\\profile.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\user\\profile.png"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\app.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\demo\\analytics.demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo\\analytics.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\demo\\calendar.demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo\\calendar.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\demo\\chart-apex.demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo\\chart-apex.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\demo\\chart-js.demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo\\chart-js.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\demo\\dashboard.demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo\\dashboard.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\demo\\email-compose.demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo\\email-compose.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\demo\\form-plugins.demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo\\form-plugins.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\demo\\highlightjs.demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo\\highlightjs.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\demo\\map.demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo\\map.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\demo\\page-coming-soon.demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo\\page-coming-soon.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\demo\\page-gallery.demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo\\page-gallery.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\demo\\page-scrum-board.demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo\\page-scrum-board.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\demo\\pos-counter-checkout.demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo\\pos-counter-checkout.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\demo\\pos-customer-order.demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo\\pos-customer-order.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\demo\\pos-kitchen-order.demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo\\pos-kitchen-order.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\demo\\pos-menu-stock.demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo\\pos-menu-stock.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\demo\\pos-table-booking.demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo\\pos-table-booking.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\demo\\table-plugins.demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo\\table-plugins.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\demo\\ui-modal-notification.demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo\\ui-modal-notification.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\demo\\widgets.demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\demo\\widgets.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\notify.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\notify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\js\\vendor.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\vendor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\@fullcalendar\\bootstrap\\main.global.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\@fullcalendar\\bootstrap\\main.global.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\@fullcalendar\\bootstrap\\main.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\@fullcalendar\\bootstrap\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\@fullcalendar\\common\\main.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\@fullcalendar\\common\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\@fullcalendar\\core\\main.global.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\@fullcalendar\\core\\main.global.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\@fullcalendar\\daygrid\\main.global.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\@fullcalendar\\daygrid\\main.global.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\@fullcalendar\\daygrid\\main.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\@fullcalendar\\daygrid\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\@fullcalendar\\interaction\\main.global.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\@fullcalendar\\interaction\\main.global.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\@fullcalendar\\list\\main.global.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\@fullcalendar\\list\\main.global.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\@fullcalendar\\list\\main.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\@fullcalendar\\list\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\@fullcalendar\\timegrid\\main.global.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\@fullcalendar\\timegrid\\main.global.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\@fullcalendar\\timegrid\\main.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\@fullcalendar\\timegrid\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\apexcharts\\dist\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\apexcharts\\dist\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\blueimp-canvas-to-blob\\js\\canvas-to-blob.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\blueimp-canvas-to-blob\\js\\canvas-to-blob.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\blueimp-file-upload\\css\\jquery.fileupload.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\blueimp-file-upload\\css\\jquery.fileupload.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\blueimp-file-upload\\js\\jquery.fileupload-audio.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\blueimp-file-upload\\js\\jquery.fileupload-audio.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\blueimp-file-upload\\js\\jquery.fileupload-image.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\blueimp-file-upload\\js\\jquery.fileupload-image.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\blueimp-file-upload\\js\\jquery.fileupload-process.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\blueimp-file-upload\\js\\jquery.fileupload-process.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\blueimp-file-upload\\js\\jquery.fileupload-ui.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\blueimp-file-upload\\js\\jquery.fileupload-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\blueimp-file-upload\\js\\jquery.fileupload-validate.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\blueimp-file-upload\\js\\jquery.fileupload-validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\blueimp-file-upload\\js\\jquery.fileupload-video.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\blueimp-file-upload\\js\\jquery.fileupload-video.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\blueimp-file-upload\\js\\jquery.fileupload.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\blueimp-file-upload\\js\\jquery.fileupload.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\blueimp-file-upload\\js\\jquery.iframe-transport.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\blueimp-file-upload\\js\\jquery.iframe-transport.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\blueimp-file-upload\\js\\vendor\\jquery.ui.widget.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\blueimp-file-upload\\js\\vendor\\jquery.ui.widget.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\blueimp-gallery\\js\\jquery.blueimp-gallery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\blueimp-gallery\\js\\jquery.blueimp-gallery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\blueimp-load-image\\js\\load-image.all.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\blueimp-load-image\\js\\load-image.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\blueimp-tmpl\\js\\tmpl.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\blueimp-tmpl\\js\\tmpl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\bootstrap-3-typeahead\\bootstrap3-typeahead.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap-3-typeahead\\bootstrap3-typeahead.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\bootstrap-datepicker\\dist\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap-datepicker\\dist\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\bootstrap-datepicker\\dist\\css\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap-datepicker\\dist\\css\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\bootstrap-datepicker\\dist\\css\\bootstrap-datepicker3.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap-datepicker\\dist\\css\\bootstrap-datepicker3.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\bootstrap-datepicker\\dist\\js\\bootstrap-datepicker.fa.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap-datepicker\\dist\\js\\bootstrap-datepicker.fa.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\bootstrap-datepicker\\dist\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap-datepicker\\dist\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\bootstrap-datepicker\\dist\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap-datepicker\\dist\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\bootstrap-daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap-daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\bootstrap-daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap-daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\bootstrap-slider\\dist\\bootstrap-slider.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap-slider\\dist\\bootstrap-slider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\bootstrap-slider\\dist\\css\\bootstrap-slider.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap-slider\\dist\\css\\bootstrap-slider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\bootstrap-table\\dist\\bootstrap-table.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap-table\\dist\\bootstrap-table.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\bootstrap-table\\dist\\bootstrap-table.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap-table\\dist\\bootstrap-table.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\bootstrap-timepicker\\css\\bootstrap-timepicker.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap-timepicker\\css\\bootstrap-timepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\bootstrap-timepicker\\js\\bootstrap-timepicker.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bootstrap-timepicker\\js\\bootstrap-timepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\cdn-cgi\\scripts\\5c5dd728\\cloudflare-static\\email-decode.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\cdn-cgi\\scripts\\5c5dd728\\cloudflare-static\\email-decode.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\cdn-cgi\\scripts\\7d0fa10a\\cloudflare-static\\rocket-loader.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\cdn-cgi\\scripts\\7d0fa10a\\cloudflare-static\\rocket-loader.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\chart.js\\dist\\chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\chart.js\\dist\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\datatables.net-bs5\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables.net-bs5\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\datatables.net-bs5\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables.net-bs5\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\datatables.net-buttons-bs5\\css\\buttons.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables.net-buttons-bs5\\css\\buttons.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\datatables.net-buttons-bs5\\js\\buttons.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables.net-buttons-bs5\\js\\buttons.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\datatables.net-buttons\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables.net-buttons\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\datatables.net-buttons\\js\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables.net-buttons\\js\\buttons.flash.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\datatables.net-buttons\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables.net-buttons\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\datatables.net-buttons\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables.net-buttons\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\datatables.net-buttons\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables.net-buttons\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\datatables.net-responsive-bs5\\css\\responsive.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables.net-responsive-bs5\\css\\responsive.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\datatables.net-responsive-bs5\\js\\responsive.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables.net-responsive-bs5\\js\\responsive.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\datatables.net-responsive\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables.net-responsive\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\datatables.net\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatables.net\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\highlight.js\\highlight.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\highlight.js\\highlight.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\jquery-migrate\\dist\\jquery-migrate.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery-migrate\\dist\\jquery-migrate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\jquery.maskedinput\\src\\jquery.maskedinput.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jquery.maskedinput\\src\\jquery.maskedinput.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\jvectormap-next\\jquery-jvectormap-world-mill.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap-next\\jquery-jvectormap-world-mill.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\jvectormap-next\\jquery-jvectormap.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap-next\\jquery-jvectormap.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\jvectormap-next\\jquery-jvectormap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\jvectormap-next\\jquery-jvectormap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\kbw-countdown\\dist\\css\\jquery.countdown.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\kbw-countdown\\dist\\css\\jquery.countdown.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\kbw-countdown\\dist\\js\\jquery.countdown.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\kbw-countdown\\dist\\js\\jquery.countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\kbw-countdown\\dist\\js\\jquery.plugin.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\kbw-countdown\\dist\\js\\jquery.plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\masonry-layout\\dist\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\masonry-layout\\dist\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\moment\\min\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\moment\\min\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\moment\\moment.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\moment\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\photoswipe\\dist\\default-skin\\default-skin.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\photoswipe\\dist\\default-skin\\default-skin.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\photoswipe\\dist\\default-skin\\default-skin.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\photoswipe\\dist\\default-skin\\default-skin.png"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\photoswipe\\dist\\default-skin\\default-skin.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\photoswipe\\dist\\default-skin\\default-skin.svg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\photoswipe\\dist\\default-skin\\preloader.gif",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\photoswipe\\dist\\default-skin\\preloader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\photoswipe\\dist\\photoswipe-ui-default.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\photoswipe\\dist\\photoswipe-ui-default.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\photoswipe\\dist\\photoswipe.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\photoswipe\\dist\\photoswipe.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\photoswipe\\dist\\photoswipe.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\photoswipe\\dist\\photoswipe.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\rtl\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rtl\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\rtl\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\rtl\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\select-picker\\dist\\picker.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\select-picker\\dist\\picker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\select-picker\\dist\\picker.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\select-picker\\dist\\picker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\spectrum-colorpicker2\\dist\\spectrum.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\spectrum-colorpicker2\\dist\\spectrum.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\spectrum-colorpicker2\\dist\\spectrum.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\spectrum-colorpicker2\\dist\\spectrum.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\summernote\\dist\\font\\summernote.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\summernote\\dist\\font\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\summernote\\dist\\font\\summernote.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\summernote\\dist\\font\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\summernote\\dist\\font\\summernote.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\summernote\\dist\\font\\summernote.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\summernote\\dist\\font\\summernoted41d.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\summernote\\dist\\font\\summernoted41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\summernote\\dist\\summernote-lite.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\summernote\\dist\\summernote-lite.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\summernote\\dist\\summernote-lite.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\summernote\\dist\\summernote-lite.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\tag-it\\css\\jquery.tagit.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\tag-it\\css\\jquery.tagit.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\tag-it\\js\\tag-it.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\tag-it\\js\\tag-it.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\www.datatables.net\\examples\\resources\\details_close.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\www.datatables.net\\examples\\resources\\details_close.png"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\plugins\\www.datatables.net\\examples\\resources\\details_open.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\www.datatables.net\\examples\\resources\\details_open.png"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Bold.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Bold.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Bold.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Light.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Light.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Light.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Light.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Medium.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Medium.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Medium.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Medium.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_UltraLight.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_UltraLight.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_UltraLight.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_UltraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_UltraLight.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_UltraLight.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_UltraLight.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\1-IranSansWeb\\IRANSansWeb_UltraLight.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\10-Aseman\\g aseman.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\10-Aseman\\g aseman.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\11-Badr\\+ Badr.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\11-Badr\\+ Badr.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\11-Badr\\+ Badr.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\11-Badr\\+ Badr.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\12-Behdad-Font\\Behdad-Regular.otf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\12-Behdad-Font\\Behdad-Regular.otf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\12-Behdad-Font\\Behdad-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\12-Behdad-Font\\Behdad-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\12-Behdad-Font\\Behdad-Regular.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\12-Behdad-Font\\Behdad-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\12-Behdad-Font\\Behdad-Regular.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\12-Behdad-Font\\Behdad-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\13-Kara\\SGKara-Light.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\13-Kara\\SGKara-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\13-Kara\\SGKara-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\13-Kara\\SGKara-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\13-Kara\\SGKara-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\13-Kara\\SGKara-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanwebbold.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanwebbold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanwebbold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanwebbold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanwebbold.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanwebbold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanwebbold.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanwebbold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanweblight.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanweblight.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanweblight.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanweblight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanweblight.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanweblight.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanweblight.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanweblight.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanwebregular.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanwebregular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanwebregular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanwebregular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanwebregular.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\2-IranYekan\\iranyekanwebregular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\3-Bahij Palatino Sans\\Bahij Palatino Sans Arabic-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\3-Bahij Palatino Sans\\Bahij Palatino Sans Arabic-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\3-Bahij Palatino Sans\\Bahij_Palatino_Arabic-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\3-Bahij Palatino Sans\\Bahij_Palatino_Arabic-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\3-Bahij Palatino Sans\\Bahij_Palatino_Sans_Arabic-Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\3-Bahij Palatino Sans\\Bahij_Palatino_Sans_Arabic-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\4-Palatino Sans\\PalatinoLT.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\4-Palatino Sans\\PalatinoLT.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\4-Palatino Sans\\PalatinoLT.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\4-Palatino Sans\\PalatinoLT.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\4-Palatino Sans\\PalatinoLTArabic-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\4-Palatino Sans\\PalatinoLTArabic-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\4-Palatino Sans\\PalatinoSansArabic-Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\4-Palatino Sans\\PalatinoSansArabic-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\4-Palatino Sans\\PalatinoSansArabic-Bold.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\4-Palatino Sans\\PalatinoSansArabic-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits-Without-Latin\\Sahel-Black-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits-Without-Latin\\Sahel-Black-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits-Without-Latin\\Sahel-Black-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits-Without-Latin\\Sahel-Black-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits-Without-Latin\\Sahel-Black-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits-Without-Latin\\Sahel-Black-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits-Without-Latin\\Sahel-Bold-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits-Without-Latin\\Sahel-Bold-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits-Without-Latin\\Sahel-Bold-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits-Without-Latin\\Sahel-Bold-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits-Without-Latin\\Sahel-Bold-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits-Without-Latin\\Sahel-Bold-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits-Without-Latin\\Sahel-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits-Without-Latin\\Sahel-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits-Without-Latin\\Sahel-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits-Without-Latin\\Sahel-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits-Without-Latin\\Sahel-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits-Without-Latin\\Sahel-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits\\Sahel-Black-FD.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits\\Sahel-Black-FD.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits\\Sahel-Black-FD.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits\\Sahel-Black-FD.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits\\Sahel-Black-FD.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits\\Sahel-Black-FD.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits\\Sahel-Bold-FD.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits\\Sahel-Bold-FD.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits\\Sahel-Bold-FD.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits\\Sahel-Bold-FD.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits\\Sahel-Bold-FD.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits\\Sahel-Bold-FD.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits\\Sahel-FD.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits\\Sahel-FD.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits\\Sahel-FD.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits\\Sahel-FD.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits\\Sahel-FD.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Farsi-Digits\\Sahel-FD.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\LICENSE",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\README.md",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Sahel-Black.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Sahel-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Sahel-Black.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Sahel-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Sahel-Black.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Sahel-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Sahel-Bold.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Sahel-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Sahel-Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Sahel-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Sahel-Bold.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Sahel-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Sahel.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Sahel.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Sahel.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Sahel.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Sahel.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Sahel.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Without-Latin\\Sahel-Black-WOL.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Without-Latin\\Sahel-Black-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Without-Latin\\Sahel-Black-WOL.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Without-Latin\\Sahel-Black-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Without-Latin\\Sahel-Black-WOL.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Without-Latin\\Sahel-Black-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Without-Latin\\Sahel-Bold-WOL.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Without-Latin\\Sahel-Bold-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Without-Latin\\Sahel-Bold-WOL.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Without-Latin\\Sahel-Bold-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Without-Latin\\Sahel-Bold-WOL.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Without-Latin\\Sahel-Bold-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Without-Latin\\Sahel-WOL.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Without-Latin\\Sahel-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Without-Latin\\Sahel-WOL.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Without-Latin\\Sahel-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\5-Sahel\\Without-Latin\\Sahel-WOL.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\5-Sahel\\Without-Latin\\Sahel-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Bold-FD-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-FD-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits-Without-Latin\\Shabnam-Light-FD-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-Bold-FD.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-Bold-FD.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-Bold-FD.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-Bold-FD.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-Bold-FD.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-Bold-FD.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-Bold-FD.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-Bold-FD.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-FD.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-FD.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-FD.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-FD.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-FD.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-FD.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-FD.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-FD.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-Light-FD.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-Light-FD.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-Light-FD.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-Light-FD.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-Light-FD.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-Light-FD.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-Light-FD.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Farsi-Digits\\Shabnam-Light-FD.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\LICENSE",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\README.md",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Read Me.txt",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam-Bold.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam-Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam-Bold.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam-Bold.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam-Light.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam-Light.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam-Light.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam-Light.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Shabnam.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-Bold-WOL.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-Bold-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-Bold-WOL.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-Bold-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-Bold-WOL.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-Bold-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-Bold-WOL.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-Bold-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-Light-WOL.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-Light-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-Light-WOL.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-Light-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-Light-WOL.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-Light-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-Light-WOL.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-Light-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-WOL.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-WOL.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-WOL.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-WOL.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\Without-Latin\\Shabnam-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\6-Shabnam\\YasDL.com.url",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\6-Shabnam\\YasDL.com.url"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Bold-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Bold-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Bold-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Bold-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Bold-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Bold-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Bold-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Bold-FD-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-FD-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Light-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Light-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Light-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Light-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Light-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Light-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Light-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Light-FD-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Medium-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Medium-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Medium-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Medium-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Medium-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Medium-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Medium-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Medium-FD-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Thin-FD-WOL.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Thin-FD-WOL.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Thin-FD-WOL.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Thin-FD-WOL.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Thin-FD-WOL.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Thin-FD-WOL.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Thin-FD-WOL.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Farsi-Digits-Without-Latin\\Vazir-Thin-FD-WOL.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\LICENSE",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\README.md",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Bold.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Bold.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Bold.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Light.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Light.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Light.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Light.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Medium.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Medium.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Medium.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Medium.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Thin.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Thin.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Thin.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Thin.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Thin.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Thin.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Vazir-Thin.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Vazir.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Vazir.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Vazir.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Vazir.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Vazir.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Vazir.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\7-Vazir\\Vazir.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\7-Vazir\\Vazir.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\8-Roya\\ROYA.TTF",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\8-Roya\\ROYA.TTF"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\8-Roya\\ROYAB.TTF",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\8-Roya\\ROYAB.TTF"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\9-Diplomat\\Far_Diplomat.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\9-Diplomat\\Far_Diplomat.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Admin\\assets\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Home\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Home\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Home\\assets\\css\\bootstrap-icon.css",
+      "PackagePath": "staticwebassets\\Home\\assets\\css\\bootstrap-icon.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Home\\assets\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\Home\\assets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Home\\assets\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\Home\\assets\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Home\\assets\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\Home\\assets\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Home\\assets\\fonts\\dana-regular.ttf",
+      "PackagePath": "staticwebassets\\Home\\assets\\fonts\\dana-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Home\\assets\\img\\.png",
+      "PackagePath": "staticwebassets\\Home\\assets\\img\\.png"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Home\\assets\\img\\background_img_01b.png",
+      "PackagePath": "staticwebassets\\Home\\assets\\img\\background_img_01b.png"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Home\\assets\\js\\jQuery.js",
+      "PackagePath": "staticwebassets\\Home\\assets\\js\\jQuery.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Home\\assets\\js\\jquery.liveType.js",
+      "PackagePath": "staticwebassets\\Home\\assets\\js\\jquery.liveType.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Home\\assets\\js\\wow.js",
+      "PackagePath": "staticwebassets\\Home\\assets\\js\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Home\\assets\\style.css",
+      "PackagePath": "staticwebassets\\Home\\assets\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Home\\main\\app.min.css",
+      "PackagePath": "staticwebassets\\Home\\main\\app.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Home\\main\\fonts\\bootstrap-iconsf114.woff",
+      "PackagePath": "staticwebassets\\Home\\main\\fonts\\bootstrap-iconsf114.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Home\\main\\fonts\\bootstrap-iconsf114.woff2",
+      "PackagePath": "staticwebassets\\Home\\main\\fonts\\bootstrap-iconsf114.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Home\\main\\images\\cover-6.html",
+      "PackagePath": "staticwebassets\\Home\\main\\images\\cover-6.html"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Home\\main\\images\\cover.jpg",
+      "PackagePath": "staticwebassets\\Home\\main\\images\\cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Home\\main\\images\\pattern.png",
+      "PackagePath": "staticwebassets\\Home\\main\\images\\pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\Home\\main\\vendor.min.css",
+      "PackagePath": "staticwebassets\\Home\\main\\vendor.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\Alpha\\Desktop\\code-dev\\persian-code\\persian-code.web\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.persian-code.web.props",
+      "PackagePath": "build\\persian-code.web.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.persian-code.web.props",
+      "PackagePath": "buildMultiTargeting\\persian-code.web.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.persian-code.web.props",
+      "PackagePath": "buildTransitive\\persian-code.web.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.persian-code.web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
