@@ -1,0 +1,53 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>persian_code.web</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Admin\assets\img\Competition\" />
+    <Folder Include="wwwroot\Home\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Analyzers" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.7.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="wwwroot\Admin\assets\img\pos\icon-table.svg" />
+    <_ContentIncludedByDefault Remove="wwwroot\Admin\assets\img\pos\product-1.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\Admin\assets\img\pos\product-10.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\Admin\assets\img\pos\product-11.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\Admin\assets\img\pos\product-12.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\Admin\assets\img\pos\product-13.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\Admin\assets\img\pos\product-14.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\Admin\assets\img\pos\product-15.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\Admin\assets\img\pos\product-16.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\Admin\assets\img\pos\product-17.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\Admin\assets\img\pos\product-2.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\Admin\assets\img\pos\product-3.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\Admin\assets\img\pos\product-4.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\Admin\assets\img\pos\product-5.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\Admin\assets\img\pos\product-6.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\Admin\assets\img\pos\product-7.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\Admin\assets\img\pos\product-8.jpg" />
+    <_ContentIncludedByDefault Remove="wwwroot\Admin\assets\img\pos\product-9.jpg" />
+  </ItemGroup>
+
+</Project>
